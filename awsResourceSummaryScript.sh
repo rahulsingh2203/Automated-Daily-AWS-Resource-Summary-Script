@@ -1,6 +1,13 @@
 #!/bin/bash
+
+################################################################################
+# Author: Rahul Singh
+#Date: 02-08-24
+#version: 1.0.1
+################################################################################
+
 # Set the email address of your manager
-MANAGER_EMAIL="manager@example.com"
+MANAGER_EMAIL="enggrahulsingh2203@gmail.com"
 # Set the subject of the email
 EMAIL_SUBJECT="Daily AWS Resource Summary"
 # Set the temporary file to store the summary
